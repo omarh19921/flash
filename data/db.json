@@ -1,0 +1,195 @@
+{
+  "decks": [
+    {
+      "name": "React Router",
+      "description": "React Router is a collection of navigational components that compose declaratively with your aasdasdasda",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "HTML/CSS/Javascript",
+      "description": "LoremText"
+    },
+    {
+      "name": "Rendering in React",
+      "description": "React's component structure allows for quickly building a complex web application that relies on DOM manipulation. ",
+      "id": 5
+    }
+  ],
+  "cards": [
+    {
+      "front": "What path will match the follow Route?!!!a\n<Route>!!!\n  <NotFound />\n</Route>",
+      "back": "All paths. A route with no path matches all asdasd!!!!!!!!!a",
+      "deckId": 2,
+      "id": 4
+    },
+    {
+      "front": "Differentiate between Real DOM and Virtual DOM.",
+      "back": "Virtual DOM updates are faster but do not directly update the HTML",
+      "deckId": 5,
+      "id": 6
+    },
+    {
+      "front": "How do you modify the state of a different React ",
+      "back": "Not at all! State is visible to the component only.",
+      "deckId": 5,
+      "id": 7
+    },
+    {
+      "front": "asdasdas",
+      "back": "dasdasdasd",
+      "deckId": 3,
+      "id": 8
+    },
+    {
+      "front": "asdasdasd",
+      "back": "asdasdasdasd",
+      "deckId": 3,
+      "id": 10
+    },
+    {
+      "front": "asdasd",
+      "back": "asdasd",
+      "deckId": 5,
+      "id": 12
+    },
+    {
+      "front": "asdasdasd",
+      "back": "aasdasdasd",
+      "deckId": 2,
+      "id": 15
+    },
+    {
+      "front": "javar",
+      "back": "alex",
+      "deckId": 2,
+      "id": 16
+    },
+    {
+      "front": "a",
+      "back": "a",
+      "deckId": 2,
+      "id": 17
+    },
+    {
+      "front": "",
+      "back": "",
+      "deckId": 2,
+      "id": 18
+    },
+    {
+      "front": "",
+      "back": "",
+      "deckId": 2,
+      "id": 19
+    },
+    {
+      "front": "aa",
+      "back": "aa",
+      "deckId": 2,
+      "id": 20
+    },
+    {
+      "front": "",
+      "back": "",
+      "deckId": 2,
+      "id": 21
+    },
+    {
+      "front": "",
+      "back": "",
+      "deckId": 2,
+      "id": 22
+    },
+    {
+      "front": "newcard",
+      "back": "newcard",
+      "deckId": 2,
+      "id": 23
+    },
+    {
+      "front": "",
+      "back": "",
+      "deckId": 2,
+      "id": 24
+    },
+    {
+      "front": "",
+      "back": "",
+      "deckId": 2,
+      "id": 25
+    },
+    {
+      "front": "",
+      "back": "",
+      "deckId": 2,
+      "id": 26
+    },
+    {
+      "front": "",
+      "back": "",
+      "deckId": 2,
+      "id": 27
+    },
+    {
+      "front": "",
+      "back": "",
+      "deckId": 2,
+      "id": 28
+    },
+    {
+      "front": "asdasdasd",
+      "back": "asdasda",
+      "deckId": 5,
+      "id": 29
+    },
+    {
+      "front": "",
+      "back": "",
+      "deckId": 5,
+      "id": 30
+    },
+    {
+      "front": "asdasda",
+      "back": "asdasdasd",
+      "deckId": 5,
+      "id": 31
+    },
+    {
+      "front": "",
+      "back": "",
+      "deckId": 5,
+      "id": 32
+    },
+    {
+      "front": "hello",
+      "back": "goodbywe",
+      "deckId": 2,
+      "id": 34
+    },
+    {
+      "front": "",
+      "back": "",
+      "deckId": 2,
+      "id": 35
+    },
+    {
+      "front": "a",
+      "back": "c",
+      "deckId": 2,
+      "id": 36
+    },
+    {
+      "front": "",
+      "back": "",
+      "deckId": 2,
+      "id": 37
+    },
+    {
+      "front": "a",
+      "back": "b",
+      "deckId": 2,
+      "id": 38
+    }
+  ]
+}
